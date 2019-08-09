@@ -37,15 +37,15 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 }
 
-.header {
+#header-1 {
 	padding: 15px 20px 15px 20px;
 	overflow: hidden;
 }
 
-.header .logo-box {
+#header-1 .logo-box {
 	float: left;
 }
-.header h1 {
+#header-1 h1 {
 	display: inline-block;
 	background-color: #a31b1b;
 	padding: 10px;
@@ -55,7 +55,7 @@ body {
 	color: #f7f3ef;
 }
 
-.header h2 {
+#header-1 h2 {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 18px;
 	color:#344e63;
